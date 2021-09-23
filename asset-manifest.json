@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/azReactMock/static/css/main.3361343a.chunk.css",
+    "main.js": "/azReactMock/static/js/main.ee959137.chunk.js",
+    "main.js.map": "/azReactMock/static/js/main.ee959137.chunk.js.map",
+    "runtime-main.js": "/azReactMock/static/js/runtime-main.0fe96e77.js",
+    "runtime-main.js.map": "/azReactMock/static/js/runtime-main.0fe96e77.js.map",
+    "static/js/2.b465847c.chunk.js": "/azReactMock/static/js/2.b465847c.chunk.js",
+    "static/js/2.b465847c.chunk.js.map": "/azReactMock/static/js/2.b465847c.chunk.js.map",
+    "index.html": "/azReactMock/index.html",
+    "static/css/main.3361343a.chunk.css.map": "/azReactMock/static/css/main.3361343a.chunk.css.map",
+    "static/js/2.b465847c.chunk.js.LICENSE.txt": "/azReactMock/static/js/2.b465847c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0fe96e77.js",
+    "static/js/2.b465847c.chunk.js",
+    "static/css/main.3361343a.chunk.css",
+    "static/js/main.ee959137.chunk.js"
+  ]
+}
